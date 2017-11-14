@@ -1,0 +1,27 @@
+n = 1000
+Insertion Sort: 246657
+Bubble Sort: 499364
+Selection Sort: 499500
+Merge Sort: 19952
+Quick Sort: 11387
+
+n = 200
+Insertion Sort: 0
+Bubble Sort: 199
+Selection Sort: 19900
+Merge Sort: 3088
+Quick Sort: 1407
+
+n = 50000
+Insertion Sort: 627312233
+Bubble Sort: 1249921372
+Selection Sort: 1249975000
+Merge Sort: 1568928
+Quick Sort: 888941
+
+n = 5000
+Insertion Sort: 12497500
+Bubble Sort: 12497500
+Selection Sort: 12497500
+Merge Sort: 123616
+Quick Sort: 55239
